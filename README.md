@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left" >
 <a href="https://discordapp.com/users/devxoshakya" target="blank"><img hspace ="20" align="center" src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/discord.svg" alt="Discord" height="40" width="40" /></a>
- <a href="https://discordapp.com/users/devxoshakya" target="blank"><img hspace ="20" align="center" src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/twitter.svg" alt="Twitter" height="40" width="40" /></a>
+ <a href="https://discordapp.com/users/devxoshakya" target="blank"><img hspace ="20" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" alt="Twitter" height="40" width="40" /></a>
 <a href="https://www.instagram.com/devxoshakya/" target="blank"><img hspace ="20" align="center" src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/insta.svg" alt="Insta" height="60" width="60" /></a>
 </p>
 
