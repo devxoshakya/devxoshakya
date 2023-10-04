@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning more about **Web-Devlopment and DSA**
 - 📚 *I love to explore more new things in Tech***
 - 📫 How to reach me :
-  * [![Gmail Badge](https://img.shields.io/badge/-prosenjitswarnakar2002@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:chatterjeeu7@gmail.com)](mailto:devxoshakya@gmail.com)
+  * [![Gmail Badge](https://img.shields.io/badge/-devxoshakya@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:devxoshakya@gmail.com)](mailto:devxoshakya@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" >
@@ -35,11 +35,9 @@
 
 <h3 align="left">Coder Profiles:</h3>
 <p align="left"> 
-<a href="https://leetcode.com/Prosenjit_2002/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" alt="LeetCode" width="150" height="40"/> </a>
+<a href="https://auth.geeksforgeeks.org/user/devxoshakya" target="_blank"> <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="GeeksforGeeks" width="150" height="40"/> </a>
 &emsp;&emsp;
 </p>
-<h3 align="left">Hacktoberfest 2022:</h3>
-<p align="left" >
 <hr></hr>
 <details>
 <summary>
@@ -47,6 +45,5 @@
   </summary>  
  <p align=center> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devxoshakya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Dev-Shakya" /><br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devxoshakya&show_icons=true&locale=en&layout=compact&theme=dracula" alt="devxoshakya" /><br><br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devxoshakya&theme=tokyonight" alt="Dev-Shakya" /></p>
  </details>
  
