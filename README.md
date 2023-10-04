@@ -12,20 +12,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left" >
 <a href="https://discordapp.com/users/devxoshakya" target="blank"><img hspace ="20" align="center" src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/discord.svg" alt="Discord" height="40" width="40" /></a>
- <a href="https://discordapp.com/users/devxoshakya" target="blank"><img hspace ="20" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" alt="Twitter" height="40" width="40" /></a>
+ <a href="https://twitter.com/devxoshakya" target="blank"><img hspace ="20" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" alt="Twitter" height="40" width="40" /></a>
 <a href="https://www.instagram.com/devxoshakya/" target="blank"><img hspace ="20" align="center" src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/insta.svg" alt="Insta" height="60" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/android.svg" alt="Android" width="40" height="40"/> </a>
-&emsp;&emsp;
-<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a>
-&emsp;&emsp;
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a>
 &emsp;&emsp;
- <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/dartlang-icon.svg" alt="Dart" width="40" height="40"/> </a>
-&emsp;&emsp; 
 <!-- <a href="https://kotlinlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/kotlin.svg" alt="Kotlin" width="40" height="40"/> </a>
 &emsp;&emsp; -->
 <a href="https://www.stroustrup.com/C++.html" target="_blank"> <img src="https://raw.githubusercontent.com/shatanikmahanty/shatanikmahanty/main/assets/c%2B%2B.svg" alt="C++" width="40" height="40"/> </a>
