@@ -42,7 +42,4 @@
   <p align=center> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devxoshakya&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Dev-Shakya" /><br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devxoshakya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="devxoshakya" /><br><br>
  </details>
- <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=devxoshakya&label=Profile%20Views&color=1&icon=0&pretty=true" />
-</a>
  
