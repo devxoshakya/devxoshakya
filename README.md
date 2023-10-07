@@ -39,6 +39,7 @@
     <img align="left" src="https://github.com/OPTIMUS-PRIME2001/OPTIMUS-PRIME2001/blob/faf611405777dc6dd4f1a57fdd0b5d272ce842ea/workflows/increase.svg" alt="OPTIMUS-PRIME2001stats" wifth="40" height="30">My GitHub Stats
  </summary>  
  <p align=center> &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devxoshakya&theme=tokyonight&hide_border=false" alt="Dev-Shakya" /><br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devxoshakya&show_icons=true&locale=en&layout=compact&theme=dracula" alt="devxoshakya" /><br><br>
+  <p align=center> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devxoshakya&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Dev-Shakya" /><br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devxoshakya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="devxoshakya" /><br><br>
  </details>
  
