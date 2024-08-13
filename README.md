@@ -9,6 +9,8 @@
 - 📫 How to reach me :
   * [![Gmail Badge](https://img.shields.io/badge/-devxoshakya@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:devxoshakya@gmail.com)](mailto:devxoshakya@gmail.com)
   * [![Linkedin Badge](https://img.shields.io/badge/-devxoshakya-ffffff?style=plastic&logo=Linkedin&logoColor=blue&link=mailto:devxoshakya@gmail.com)](https://www.linkedin.com/in/devxoshakya/)
+  * <p align="left"> <img src="https://komarev.com/ghpvc/?username=devxoshakya&label=Profile%20views&color=0e75b6&style=flat" alt="devxoshakya" /> </p>
+
 
 
 <h3 align="left">Connect with me:</h3>
