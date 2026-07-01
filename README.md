@@ -3,7 +3,7 @@
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,I am Dev Shakya</h1>
 <h3 align="center">An enthusiastic Computer Science Student at Meerut Institute of Engeneering and Technology, Meerut</h3>
 
-- 🔭 I’m currently working on [Anveshna.](https://anveshna.devshakya.xyz)
+- 🔭 I’m currently working on [Anveshna.](https://anveshna.devxoshakya.xyz)
 - 🌱 I’m currently learning more about **Web-Devlopment and DSA**
 - 📚 *I love to explore more new things in Tech***
 - 📫 How to reach me :
